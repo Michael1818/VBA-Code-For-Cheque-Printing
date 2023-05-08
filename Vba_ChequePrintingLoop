@@ -1,0 +1,12 @@
+Sub ChequePrinterIteration()
+
+For Each c In Range("I4:I69")
+'That is, if the amount is the same and only the name change
+Range("E3") = c.Value
+'MsgBox c.Value
+
+ActiveSheet.PrintOut
+'ActiveSheet.PrintPreview
+
+Next c
+End Sub
