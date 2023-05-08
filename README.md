@@ -9,10 +9,12 @@ Usually the name of the beneficiaries and amount to pay are in two in coluwns in
 From Excel uner the developer tab, go to Visual basic, and create a new module, name it, paste the code and save.
 
 The code loops over one of the columns, which represents the changing names of the beneficiaries, while the second column contains constant amounts payable to each beneficiary.
+If there is power outage during the production, the printer may not print the rest of the cheque by itself, so you need to know where the production stopped, to pick up from there.
 
 # Tools Needed
 I use a Laserjet Pro MFP M130a for this, I cut out the number of cheques i need to write per amount leaving the stub, fix the cheques, and fit the shutter to hold the cheques properly on both sides. 
 Ensure your printer toner cartridge is ok so the printing is sharp.
+
 
 
 # Benefits
