@@ -14,3 +14,5 @@ Ensure your printer toner cartridge is ok so the printing is sharp.
 
 # Benefits
 With this simple VBA code, I have been able to print in less than 3 hours what it takes 3 of my colleagues about 3 days to write, and i do it in a neat and orderly way. Now tell me why I won't love coding.
+
+Let me know your thoughts on this repo @SeunMicGeek on twitter
